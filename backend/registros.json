@@ -8,5 +8,15 @@
     "categoria": "perro",
     "imagen": "/uploads/1747081763167.png",
     "fechaRegistro": "2025-05-12T20:29:23.181Z"
+  },
+  {
+    "id": 1747355334040,
+    "nombre": "Thor",
+    "email": "adoptamas@gmail.com",
+    "descripcion": "Cachorro recién nacido",
+    "fecha": "2025-05-07",
+    "categoria": "perro",
+    "imagen": "/uploads/1747355334029.jpg",
+    "fechaRegistro": "2025-05-16T00:28:54.040Z"
   }
 ]

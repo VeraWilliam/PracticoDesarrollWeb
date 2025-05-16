@@ -7,5 +7,23 @@
     "tipoMascota": "perro",
     "descripcion": "f",
     "fechaRegistro": "2025-05-14T23:51:39.111Z"
+  },
+  {
+    "id": 1747349661259,
+    "nombreCompleto": "Lui Miguel",
+    "cedula": "1255558963",
+    "correo": "lmiguen@gmail.com",
+    "tipoMascota": "gato",
+    "descripcion": "Que el gato no sea tan grande, le ofrezco un hogar cálido donde pueda vivir y su lugar con juguetes para el/ella.",
+    "fechaRegistro": "2025-05-15T22:54:21.259Z"
+  },
+  {
+    "id": 1747355555501,
+    "nombreCompleto": "Stail Vera",
+    "cedula": "8571345625",
+    "correo": "stalin@gmail.com",
+    "tipoMascota": "gato",
+    "descripcion": "Busco un gato recien nacido y le ofrezco un lugar y familia con quien jugar",
+    "fechaRegistro": "2025-05-16T00:32:35.501Z"
   }
 ]
